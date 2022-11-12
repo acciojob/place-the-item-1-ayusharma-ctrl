@@ -1,2 +1,21 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
 
+body{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    flex-direction: row;
+    
+}
+
+.div1{
+    background-color: brown;
+    height: 20vh;
+    width: 20vw;
+}
 /* Your CSS Code here. */
