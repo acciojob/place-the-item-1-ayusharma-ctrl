@@ -4,16 +4,15 @@
     box-sizing: border-box;
 }
 
-body{
+.holder{
     display: flex;
     align-items: center;
     justify-content: space-between;
     flex-wrap: wrap;
     flex-direction: row;
-    
 }
 
-.holder{
+.box{
     background-color: brown;
     height: 20vh;
     width: 20vw;
